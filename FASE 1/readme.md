@@ -1,4 +1,4 @@
-## Etapa 1 Analizador Léxico
+## Fase 1: Analizador Léxico
 
 *Crear un analizador léxico que reconozca los siguientes símbolos:*
 
