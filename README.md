@@ -80,16 +80,9 @@ Generar un algoritmo para analizar los Ejercicios 1 y 2 del archivo
 
 #### Ejercicio 1 hola+mundo
 
-![image](https://user-images.githubusercontent.com/75290686/204434575-bc526d6d-b07b-4c9f-952e-13e832d83dbf.png)
-![image](https://user-images.githubusercontent.com/75290686/204434547-96a8c81f-e9fb-4787-9397-706d726c79bc.png)
-
-![image](https://user-images.githubusercontent.com/75290686/196600124-ecb2fbf0-4ad5-4943-85c9-3246cda1fbbf.png)
+https://user-images.githubusercontent.com/75290686/196600124-ecb2fbf0-4ad5-4943-85c9-3246cda1fbbf.png
 
 ##### Ejercicio 2 a+b+c+d+e+f
 
-![image](https://user-images.githubusercontent.com/75290686/204435207-591c3a58-d330-40a6-b5bf-48f783dea7b4.png)
-![image](https://user-images.githubusercontent.com/75290686/204435286-dc5cfc71-2ee0-4435-af02-375eb8fbafab.png)
-
-
-![image](https://user-images.githubusercontent.com/75290686/196600232-9b1b9350-1a97-4c1e-8c9a-80f6b87b8f85.png)
-![image](https://user-images.githubusercontent.com/75290686/196600389-66303109-fe68-4796-b631-c074ceac14db.png)
+https://user-images.githubusercontent.com/75290686/196600232-9b1b9350-1a97-4c1e-8c9a-80f6b87b8f85.png
+https://user-images.githubusercontent.com/75290686/196600389-66303109-fe68-4796-b631-c074ceac14db.png
